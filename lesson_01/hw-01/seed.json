@@ -1,0 +1,72 @@
+[
+  {
+    "title": "iPhone 13 128GB",
+    "category": "смартфоны",
+    "price": 52000,
+    "condition": "б/у",
+    "seller": {
+      "name": "Иванов И.",
+      "city": "Ярославль",
+      "rating": 4.8
+    },
+    "tags": ["Apple", "гарантия", "торг"],
+    "publishedAt": "2026-09-10"
+  },
+  {
+    "title": "Ноутбук Lenovo IdeaPad",
+    "category": "ноутбуки",
+    "price": 47000,
+    "condition": "новый",
+    "seller": {
+      "name": "Петрова А.",
+      "city": "Москва",
+      "rating": 4.9
+    },
+    "tags": ["Lenovo", "SSD", "16GB"],
+    "publishedAt": "2026-09-11"
+  },
+  {
+    "title": "Наушники Sony WH-1000XM4",
+    "category": "аудио",
+    "price": 21000,
+    "condition": "б/у",
+    "seller": {
+      "name": "Сидоров П.",
+      "city": "Ярославль",
+      "rating": 4.5
+    },
+    "tags": ["Sony", "наушники"],
+    "publishedAt": "2026-09-12",
+    "delivery": {
+      "available": true,
+      "price": 300
+    }
+  },
+  {
+    "title": "Планшет Samsung Galaxy Tab",
+    "category": "планшеты",
+    "price": 18000,
+    "condition": "б/у",
+    "seller": {
+      "name": "Кузнецова М.",
+      "city": "СПб",
+      "rating": 4.2
+    },
+    "tags": ["Samsung", "торг"],
+    "publishedAt": "2026-09-13",
+    "warrantyMonths": 3
+  },
+  {
+    "title": "Монитор Dell 27\"",
+    "category": "мониторы",
+    "price": 24000,
+    "condition": "новый",
+    "seller": {
+      "name": "Орлов Д.",
+      "city": "Москва",
+      "rating": 5.0
+    },
+    "tags": ["Dell", "IPS", "27"],
+    "publishedAt": "2026-09-14"
+  }
+]
